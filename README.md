@@ -1,6 +1,7 @@
-# KFS-1
+# kfs-1
 
-A minimal 32-bit kernel-from-scratch project with a containerized toolchain and quick run via QEMU.
+A minimal 32-bit kernel-from-scratch project with a containerized toolchain and quick run via QEMU. This is part 1 of a multi-step KFS series. The plan is to progress from KFS-1 up to KFS-9, iteratively building toward an end-to-end kernel (from boot to core subsystems). Each step will add focused capabilities while keeping the codebase approachable.
+
 
 ## Project Overview
 
